@@ -1,8 +1,8 @@
 # google-clone
-Google Clone
 
-## Description
-Replicating the appearance of Google search homepage
+## Google clone
+- Replicating the appearance of Google search homepage
+- (Maybe) will add an actual search function later
 
 ## Tags
 html, css, front-end web development, project
